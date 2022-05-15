@@ -1,12 +1,12 @@
-## Projeto Disparador de Mensagens Whatsapp
+## Projeto disparador de mensagens para Whatsapp
 
-#### O projeto
+#### O projeto [disparador](https://pbyugc.csb.app/)
 
 ###### É um disparador de mensagens para otimizar seu tempo com mensagens já predefinidas e prontas para realizar o envio!
 
 
 
-#### O que quero tentar alterar:
+#### O que quero alterar:
 
 - Mudar o ícone da miniatura da janela;
 
